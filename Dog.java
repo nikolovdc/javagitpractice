@@ -6,4 +6,8 @@ class Dog extends Animal {
 	public void makeNoise() {
 		System.out.println("Woof :0P");
 	}
+
+	public void eat() {
+		System.out.println("MM ruff ruff chomp... wags tail");
+	}
 }
